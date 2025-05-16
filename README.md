@@ -1,9 +1,5 @@
 # Nutri-Sync-Multi-Agent-AI-for-Personalized-Wellness
-Here's a detailed and professional `README.md` file for your project:
 
----
-
-# 🧘 Wellness AI - Personalized Nutrition & Fitness Report Generator
 
 Welcome to **Wellness AI**, an intelligent health and fitness assistant powered by advanced LLMs and [CrewAI](https://github.com/joaomdmoura/crewai)! This application uses multiple expert AI agents to provide **customized nutrition plans, yoga routines, exercise suggestions, mindset tips**, and **supplement recommendations** based on your personal inputs.
 
